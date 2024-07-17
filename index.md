@@ -1,3 +1,2 @@
-# Esta es la cabecera nivel 1
-###### Esta es la cabecera nivel 6
-Esta es una prueba de como crear cabeceras usando MarkDown
+# Aquí te muestro un lindo gatito oriental..!!
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
