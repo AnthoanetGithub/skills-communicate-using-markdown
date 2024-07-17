@@ -1,3 +1,4 @@
-``` javascript
-var mybullet =  "azul";
-```                
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [X] este es un item de mi cosecha
